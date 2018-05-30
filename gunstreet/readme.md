@@ -17,6 +17,7 @@ _This app is a mock e-commerce site for  [GunStreet Goods](https://www.facebook.
 
 ## Specs
 _Check out info.md for additional planning information_
+<div style="text-align:center"><img src="./img/gunstreet-mainpage.png" alt="me, dawn, in GunStreet tunic" width="500"></div>
 
 ## Setup/Installation Requirements
 
